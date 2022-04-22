@@ -1,0 +1,611 @@
+
+
+
+
+----------------------------------------------------------------------------------
+
+
+
+
+
+#back{
+  
+  background-repeat: repeat;
+  background-size: cover;
+  background-attachment: scroll;
+}
+#one{
+  font-size: 100px;
+  font-family: lobster;
+  text-shadow: 5px 5px 3px gray;
+}
+.two{
+border: 2px solid yellow;
+background-color: lightblue;
+padding: 40px;
+margin-right: 100px;
+margin-left: 100px;
+font-size: 30px;
+color: white;
+}
+.two:hover{
+  background-color: lightgoldenrodyellow;
+  color: deeppink;
+}
+
+#hay{
+  font-family:lobster;
+  font-size:50px;
+  color:black;
+}
+#otherintro{
+  
+  font-size: 20px;
+}
+.miyazaki {
+  display: block;
+  background-image: url("http://www.ecorazzi.com/wp-content/uploads/2016/03/shutterstock_364349756.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+  background-position: center center;
+}
+
+.totoro {
+  display: block;
+  background-image: url("https://ychef.files.bbci.co.uk/976x549/p09f3lcg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 0px;
+  margin: 0px;  
+}
+
+.title {
+  display: block;
+  text-align: center;
+  background-image: url("https://cdn.vox-cdn.com/thumbor/TQhFeuu9V5BTY6vMY-7YLMvT2jc=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20004088/spirited_awaybr_disneyscreencaps.com_14103.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  padding: 0px;
+  margin: 0px;
+  height: 150vg;  
+}
+.nevi{
+    border-radius: 40px;
+  text-decoration: none;
+    background-color: #d3e8de;
+    color: #69496b ;
+    padding: 10px;
+    margin-left: -1px;
+    font-family: Playfair Display SC;
+}
+.nevi:hover{
+  background-color: white;
+}
+.wjk{
+
+  font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-family: Playfair Display SC;
+}
+
+
+.zkn{
+
+  border: 1px solid #69496b;
+  border-radius: 20px;
+   text-decoration: none;
+    background-color: #d3e8de;
+    color:#69496b ;
+    padding: 10px;
+    margin-left: 5px;
+    font-family: Playfair Display SC;
+
+
+}
+
+
+.zkn:hover{
+  background-color: white;
+}
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+
+.nevigation{
+    border-radius: 40px;
+  text-decoration: none;
+    background-color: #d3e8de;
+    color: #69496b ;
+    padding: 10px;
+    margin-left: -1px;
+    font-family: Playfair Display SC;
+}
+.nevigation:hover{
+  background-color: white;
+}
+
+
+
+
+#iid{
+  padding-bottom: 800px;
+  border: 2px solid white;
+  background-color: rgba(195, 219, 207, 0.6);
+}
+
+
+
+
+.class{
+  float: left;
+  width: 50% ;
+}
+.a{  
+  
+  font-family: Shadows Into Light;
+  font-size: 40px;
+  border: 3px #a9d4c1;
+  text-align: center;
+}
+
+.a:hover{
+  background-color: #e3e3e3;
+}
+.b{
+  font-family: Patrick Hand;
+  font-size: 20px;
+  text-indent: 30px;
+}
+.b:hover{
+  background-color: #d1b8bb;
+}
+.c{
+    font-size: 40px;
+  font-family: Shadows Into Light;
+  
+}
+
+.d{
+  float: left;
+  width: 20%;
+  
+}
+.e{
+  font-family: Playfair Display SC;
+  font-size: 80px;
+  padding-left: 150px;
+  color: white;
+  text-shadow: 4px 4px 9px black;
+  margin-bottom: -10px;
+}
+#f{
+  border: 3px dashed white;
+}
+
+.g{
+  float: left;
+  width: 50% ;
+}
+
+.h{
+  font-family: Patrick Hand;
+  font-size: 20px;
+  background-color: rgba(195, 219, 207, 0.6);
+  text-indent: 30px;
+  padding: 25px;
+  margin-left: -50px;
+  margin-top: 50px;
+}
+
+#i{
+  margin-left: 20px;
+  border: 2px groove white;
+  border-radius: 30px;
+}
+
+
+.k{
+  font-family: Patrick Hand;
+  font-size: 20px;
+  background-color: rgba(195, 219, 207, 0.6);
+  text-indent: 30px;
+  padding: 25px;
+  margin-right: -30px;
+  margin-top: 40px;
+
+
+}
+#l{
+  margin-top: 20px;
+  margin-left: 80px;
+  border: 2px groove white;
+  border-radius: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.jjj{
+
+  font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-family: Playfair Display SC;
+}
+
+
+.jjjj{
+
+  border: 1px solid #69496b;
+  border-radius: 20px;
+   text-decoration: none;
+    background-color: #d3e8de;
+    color:#69496b ;
+    padding: 10px;
+    margin-left: 5px;
+    font-family: Playfair Display SC;
+
+
+}
+
+
+.jjjj:hover{
+  background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+#ground{
+  background-image: url(https://wx4.sinaimg.cn/large/007oVNXogy1h1fnekre4zj31401r6dlb.jpg);
+  background-repeat: repeat;
+  
+  background-attachment: scroll;
+}
+#table2,th,td{
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  color: black;
+  padding: 30px;
+  padding-right: 70px;
+  padding-left: 70px;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#table2{
+  width: 60%;
+}
+th:hover{
+  background-color: lightblue;
+  color: blue;
+}
+td:hover{
+  background-color: lightgoldenrodyellow;
+  color: brown;
+}
+.nevigation{
+    border-radius: 40px;
+  text-decoration: none;
+    background-color: #d3e8de;
+    color: #69496b ;
+    padding: 10px;
+    margin-left: -1px;
+    font-family: Playfair Display SC;
+}
+.nevigation:hover{
+  background-color: white;
+}
+.wjk{
+
+  font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-family: Playfair Display SC;
+}
+
+
+.zkn{
+
+  border: 1px solid #69496b;
+  border-radius: 20px;
+   text-decoration: none;
+    background-color: #d3e8de;
+    color:#69496b ;
+    padding: 10px;
+    margin-left: 5px;
+    font-family: Playfair Display SC;
+
+
+}
+
+
+.zkn:hover{
+  background-color: white;
+}
+
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+#nevigat7{
+    border-radius: 40px;
+  text-decoration: none;
+    background-color: #ddc7ed;
+    color: #69496b ;
+    padding: 10px;
+    margin-left: -1px;
+    font-family: Playfair Display SC;
+}
+#nevigat2{
+    border-radius: 40px;
+  text-decoration: none;
+    background-color: #ddc7ed;
+    color: #69496b ;
+    padding: 10px;
+    margin-left: -1px;
+    font-family: Playfair Display SC;
+}
+
+#nevigat3{
+    border-radius: 40px;
+  text-decoration: none;
+    background-color: #ddc7ed;
+    color: #69496b ;
+    padding: 10px;
+    margin-left: -1px;
+    font-family: Playfair Display SC;
+}
+
+#nevigat4{
+    border-radius: 40px;
+  text-decoration: none;
+    background-color: #ddc7ed;
+    color: #69496b ;
+    padding: 10px;
+    margin-left: -1px;
+    font-family: Playfair Display SC;
+}
+
+#nevigat5{
+    border-radius: 40px;
+  text-decoration: none;
+    background-color: #ddc7ed;
+    color: #69496b ;
+    padding: 10px;
+    margin-left: -1px;
+    font-family: Playfair Display SC;
+}
+
+#nevigat6{
+    border-radius: 40px;
+  text-decoration: none;
+    background-color: #ddc7ed;
+    color: #69496b ;
+    padding: 10px;
+    margin-left: -1px;
+    font-family: Playfair Display SC;
+}
+
+#nevigat7:hover{
+  background-color: white;
+}
+#nevigat2:hover{
+  background-color: white;
+}
+
+#nevigat3:hover{
+  background-color: white;
+}
+
+#nevigat4:hover{
+  background-color: white;
+}
+
+#nevigat5:hover{
+  background-color: white;
+}
+
+#nevigat6:hover{
+  background-color: white;
+}
+
+
+.class{
+    float: left;
+    width: 50% ;
+}
+
+
+
+
+
+
+
+
+
+.a1{
+    font-family: Playfair Display SC;
+    font-size: 80px;
+    padding-left: 150px;
+    color: white;
+    text-shadow: 4px 4px 9px black;
+    margin-bottom: -10px;
+}
+
+
+#a2{
+    font-family: Patrick Hand;
+    font-size: 20px;
+    background-color: rgba( );
+    text-indent: 30px;
+    padding: 25px;
+    margin-left: -100px;
+    margin-top: 50px;
+    margin-bottom: 200px;
+
+}
+
+
+
+.a3{
+    float: left;
+    width: 50% ;
+}
+
+
+.a4{
+    margin-left: 320px;
+    border: 2px groove white;
+    border-radius: 2px;
+    margin-top: -20px;
+}
+
+.a5{
+    font-family: Patrick Hand;
+    font-size: 20px;
+    background-color: rgba(221, 199, 237, 0.6);
+    text-indent: 30px;
+    padding: 25px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.a6{
+
+    font-family: Shadows Into Light;
+    font-size: 40px;
+    border: 3px #a9d4c1;
+    text-align: center;
+
+}
+
+
+
+.a7{
+    float: left;
+    width: 33%;
+    text-align: center;
+    font-family: Shadows Into Light;
+    font-size: 25px;
+    
+}
+
+.a8{
+    border: 3px groove white;
+}
+#a11{
+    margin-bottom: 100px;
+}
+#a13{
+    margin-top: 200px;
+    padding-top:200px ;
+    font-family: Shadows Into Light;
+    font-size: 25px;
+}
+.kkk{
+
+    font-size: 30px;
+    margin-top: -100px;
+    margin-bottom: 20px;
+    font-family: Playfair Display SC;
+    padding-top: 100px;
+}
+
+
+.kkkk{
+
+    border: 1px solid #69496b;
+    border-radius: 20px;
+     text-decoration: none;
+    background-color: #ddc7ed;
+    color:#69496b ;
+    padding: 10px;
+    margin-left: 5px;
+    font-family: Playfair Display SC;
+    margin-bottom: 50px;
+
+
+}
+
+
+.kkkk:hover{
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
